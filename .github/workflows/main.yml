@@ -9,7 +9,7 @@ function run(name, verbose) {
 
 const argv = yargs
   .usage('$0 [name]')
-  .option('v', { alias: 'verbose', type: 'boolean', describe: 'Verbose output' })
+  .option( {'verbose', type: 'boolean', describe: 'Verbose output' })
   .default('_', ['World'])
   .help()
   .argv;
