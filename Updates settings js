@@ -1,0 +1,10 @@
+//=====💫 sᴛᴀʀ xᴅ🔥====
+
+module.exports = {
+  BOT_NAME: 'sᴛᴀʀ xᴅ', // ur bot name
+  OWNER_NAME: 'Allan', //your name
+  OWNER_NUMBER: '256791845294', // add your phone number
+  SESSION_ID: '', // use sessin id if inbuilt pairing not working
+  MODE: "private", // public or private
+  TIMEZONE: 'Africa/Uganda', // ur timezone
+};
